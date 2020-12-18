@@ -12,7 +12,7 @@ public class psfTxnScope
         int retVal = 0;
         string providerName = "Oracle.DataAccess.Client";
         string constr =
-               @"User Id=icropuser;Password=icropuser;Data Source=icrop4db;enlist=true";
+               @"User Id=ipuser;Password=ipuser;Data Source=idb;enlist=true";
        //
       
 
